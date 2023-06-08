@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pac
+ *
+ */
+module Aspirateur {
+}
