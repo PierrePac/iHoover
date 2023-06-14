@@ -19,7 +19,7 @@ import com.hoover.*;
 public class Main {
 	
 	/**
-	 * La méthode main de iHoover application
+	 * La méthode main de iHoover application 
      * Demande à l'utilisateur les données initiales sur la pièce, l'aspirateur et les instructions.
      * Execute les instrucions.
      * 
